@@ -1,2 +1,2 @@
-# -homelab-talos-ops
+# homelab-talos-ops
 My home lab 
